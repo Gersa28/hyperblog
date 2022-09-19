@@ -1,2 +1,2 @@
-# hyperblog
-Blog para el Curso Profesional de GIT y GITHUB
+# Hiperblog
+Un blog increíble para el curso de Git y Github de Platzi
